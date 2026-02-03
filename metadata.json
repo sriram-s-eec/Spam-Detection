@@ -1,0 +1,5 @@
+{
+  "name": "SpamGuard AI - Advanced Email Spam Detection",
+  "description": "A comprehensive machine learning educational tool and real-time spam detector. It demonstrates the full ML lifecycle from preprocessing to classification using the Gemini API to simulate high-accuracy Naive Bayes models, featuring multilingual support and user authentication.",
+  "requestFramePermissions": []
+}
